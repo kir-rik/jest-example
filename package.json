@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/kir-rik/jest-example.git",
   "author": "kir_rik <kir-rik-90@yandex.ru>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
